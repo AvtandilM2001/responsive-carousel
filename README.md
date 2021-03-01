@@ -1,2 +1,3 @@
 # responsive-carousel
 responsive carousel
+Project is built in HTML, SCSS/CSS, JavaScript. To activate code, You have to download all files and open index.html via any browser. Application is responsive, it supports mobile devices and any html content. it supports swipes and touchs too. I have taken photos from different sites, they are linked in code and you have not to do anything about it. Anyway, if you want to change pictures, You have to make div with class name carousel, then, create another div in it with class name images and with id  images, and then create as many as you want img tags in this container with class name img and that is all.
